@@ -1,0 +1,67 @@
+﻿  SessionManager.cpp
+D:\dijkstra\SessionManager.cpp(81,72): warning C4244: 'argument': conversion from 'const T' to 'long', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(81,44): warning C4244: 'argument': conversion from 'const T' to 'long', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(84,72): warning C4244: 'argument': conversion from 'const T' to 'long', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(84,44): warning C4244: 'argument': conversion from 'const T' to 'long', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(101,53): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(101,81): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(101,94): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(101,66): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(119,11): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+D:\dijkstra\SessionManager.cpp(119,49): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(119,71): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(119,83): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(119,61): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(128,46): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(131,44): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(131,66): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(131,78): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(131,56): warning C4244: 'argument': conversion from 'long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\dijkstra\SessionManager.cpp(133,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(133,69): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(133,114): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\dijkstra\SessionManager.cpp(133,122): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Source.cpp
+  Generating code
+LINK : fatal error C1354: error accessing previous object file D:\dijkstra\Release\dijkstra.iobj (corrupted symbol table)
+LINK : fatal error LNK1257: code generation failed
